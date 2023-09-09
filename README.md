@@ -1,3 +1,6 @@
+**The developer is not responsible for the consequences of using this code**
+
+
 # aternos-server-manager-bot
 a discord bot that can run your aternos server or show the info of it
 
